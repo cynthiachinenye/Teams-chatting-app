@@ -2,10 +2,7 @@ import React from 'react'
 
 const MessageForm = () => {
   return (
-    <div>
-    messagebox
-      
-    </div>
+    <form></form>
   )
 }
 
